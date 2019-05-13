@@ -1,0 +1,18 @@
+{
+    "customers": {
+        "customer": [
+            {
+                "id": "1",
+                "firstName": "Jani",
+                "lastName": "Nagy",
+                "orders": "[]"
+            },
+            {
+                "id": "2",
+                "firstName": "Feri",
+                "lastName": "Kis",
+                "orders": "[]"
+            }
+        ]
+    }
+}
